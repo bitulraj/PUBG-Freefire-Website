@@ -1,7 +1,7 @@
 var data = [
             {
                 "Date": "28-06-20",
-                "Time": "12.00 PM"
+                "Time": "12.00 PM", 
                 "Team" : "Solo", 
                 "Price" : "10 Rs", 
             }
