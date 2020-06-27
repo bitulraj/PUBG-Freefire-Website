@@ -2,28 +2,28 @@ var data = [
             {
                 "No": "1",
                 "Name": "Shujan",
-                "Kills:" "99",
-            }
+                "Kills": "99",
+            },
             {
                 "No": "1",
                 "Name": "Shujan",
-                "Kills:" "99",
-            }
+                "Kills": "99",
+            },
             {
                 "No": "1",
                 "Name": "Shujan",
-                "Kills:" "99",
-            }
+                "Kills": "99",
+            },
             {
                 "No": "1",
                 "Name": "Shujan",
-                "Kills:" "99",
-            }
+                "Kills": "99",
+            },
             {
                 "No": "1",
                 "Name": "Shujan",
-                "Kills:" "99",
-            }
+                "Kills": "99",
+            },
           ]
 
 
