@@ -1,8 +1,8 @@
 var data = [
             {
                 "No": "1",
-                "Name": "Shujan",
-                "Kills": "99",
+                "Name": "b.r",
+                "Kills": "95",
             },
             {
                 "No": "1",
