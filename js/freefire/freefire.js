@@ -1,7 +1,7 @@
 var data = [
             {
                 "Date": "28-6-20",
-                "Time": "2.30 PM"
+                "Time": "3 PM"
             }
           ]
 
