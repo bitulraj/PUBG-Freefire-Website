@@ -1,7 +1,12 @@
 var data = [
             {
                 "Date": "28-6-20",
-                "Time": "3 PM"
+                "Time": "3 PM", 
+                "Team" : "Solo", 
+                "Price" : "10 Rs", 
+                "1st price" : "80"
+                "H.Kill" : "25"
+                       
             }
           ]
 
