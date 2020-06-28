@@ -2,37 +2,52 @@ var data = [
            {
                 "No": "1",
                 "Name": "malik4740T",
-                "Team": "Solo"
+                "Team": "Solo",
             },
             {
                 "No": "2",
                 "Name": "hunterd0307B",
-                "Team": "Solo"
+                "Team": "Solo",
             },
             {
                 "No": "3",
                 "Name": "Rosse786N",
-                "Team": "Solo"
+                "Team": "Solo",
             },
             {
                 "No": "4",
                 "Name": "LoveYouMONI",
-                "Team": "Solo"
+                "Team": "Solo",
             },
             {
                 "No": "5",
                 "Name": "ind IMAMUL",
-                "Team": "Solo"
-             }, 
-             {   
-                 "No" : "6", 
-                 "Name": "OP•░B░R░O░★7", 
-                 "Team" : "Solo"
-             }, 
-             {
-                  "No" : "7"
-                  "Name": "_M_R_", 
-                  "Team" : "Solo"
+                "Team": "Solo",
+            },
+            {
+                "No": "6",
+                "Name": "****",
+                "Team": "Solo",
+            },
+            {
+                "No": "7",
+                "Name": "_M_R_",
+                "Team": "Solo",
+            },
+            {
+                "No": "8",
+                "Name": "Axom jui laga",
+                "Team": "Solo",
+            },
+            {
+                "No": "9",
+                "Name": "Axom Minjul",
+                "Team": "Solo",
+            },
+            {
+                "No": "10",
+                "Name": "Lee Mad",
+                "Team": "Solo",
             },
             ];
 
