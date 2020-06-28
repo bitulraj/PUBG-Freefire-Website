@@ -4,8 +4,8 @@ var data = [
                 "Time": "3 PM", 
                 "Team" : "Solo", 
                 "Price" : "10 Rs", 
-                "1st price" : "80"
-                "H.Kill" : "25"
+                "1st price" : "80", 
+                "H.Kill" : "25", 
                        
             }
           ]
