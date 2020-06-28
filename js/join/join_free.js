@@ -1,7 +1,7 @@
 var data = [
            {
-                "No": "******",
-                "Name": "*****",
+                "No": "1",
+                "Name": "malik4740T",
                 "Team": "Solo"
             },
             {
