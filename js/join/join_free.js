@@ -20,9 +20,19 @@ var data = [
                 "Team": "Solo"
             },
             {
-                "No": "******",
-                "Name": "*****",
+                "No": "5",
+                "Name": "ind IMAMUL",
                 "Team": "Solo"
+             }, 
+             {   
+                 "No" : "6", 
+                 "Name": "OP•░B░R░O░★7", 
+                 "Team" : "Solo"
+             }, 
+             {
+                  "No" : "7"
+                  "Name": "_M_R_", 
+                  "Team" : "Solo"
             },
             ];
 
