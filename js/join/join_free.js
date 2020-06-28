@@ -5,18 +5,18 @@ var data = [
                 "Team": "Solo"
             },
             {
-                "No": "******",
-                "Name": "*****",
+                "No": "2",
+                "Name": "hunterd0307B",
                 "Team": "Solo"
             },
             {
-                "No": "******",
-                "Name": "*****",
+                "No": "3",
+                "Name": "Rosse786N",
                 "Team": "Solo"
             },
             {
-                "No": "******",
-                "Name": "*****",
+                "No": "4",
+                "Name": "LoveYouMONI",
                 "Team": "Solo"
             },
             {
