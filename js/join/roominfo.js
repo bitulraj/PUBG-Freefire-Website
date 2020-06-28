@@ -5,31 +5,16 @@ var data = [
                 "Room ID": "*****",
                 "Password": "*****"
             },
-            {
-                "Game Name": "******",
-                "Time": "*****",
-                "Room ID": "*****",
-                "Password": "*****"
-            },
-            {
-                "Game Name": "******",
-                "Time": "*****",
-                "Room ID": "*****",
-                "Password": "*****"
-            },
-            {
-                "Game Name": "******",
-                "Time": "*****",
-                "Room ID": "*****",
-                "Password": "*****"
-            },
-            {
-                "Game Name": "******",
-                "Time": "*****",
-                "Room ID": "*****",
-                "Password": "*****"
-            },
-            ];
+             ];
+                
+                
+            
+        
+                
+
+
+
+         
 
 
         // EXTRACT VALUE FOR HTML HEADER. 
