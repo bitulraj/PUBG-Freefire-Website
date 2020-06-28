@@ -27,10 +27,52 @@
     background-color: #f3f3f3;
     border-bottom: 1px solid #ccc;
   }
-
+  .sideNav{
+		display: none;
+		transition: all ease 0.6s;
+		background-color: #ccc;
+		width: 60%;
+		height: 300px;
+		position: absolute;
+		top: 5%;
+		left: 20%;
+		color: black;
+		font-family: 'Montserrat', sans-serif;
+		transition: 0.6s all ease;
+		border-radius: 5px;
+		padding: 30px 30px 30px 30px;
+	}
+	#menu-btn{
+		border: 1px solid white;
+		padding: 10px 15px 10px 15px;
+		border-radius: 2px;
+		font-size: 26px;
+		position: absolute;
+		top: 5%;
+		left: 4%;
+		cursor: pointer;
+	}
+	#cut2{
+		border: 1px solid white;
+		padding: 10px 15px 10px 15px;
+		border-radius: 2px;
+		font-size: 26px;
+		position: absolute;
+		top: 5%;
+		left: 4%;
+		cursor: pointer;
+		display: none;
+	}
 </style>
 <body>
 	<div class="container text-center">
+		<span id="menu-btn" onclick="openNav();" class="text-white ">&#9776;</span>  
+		<span id="cut2" onclick="cutNav();" class="text-white" style="cursor: pointer;">&times;</span>  
+		 <div class="sideNav" id="sidenav">  
+			<a href="join.html"><h2 class="text-white" style="font-weight: bolder;">Join</h2></a>
+			<a href="shop.html"><h2 class="text-white" style="font-weight: bolder;">Shop</h2></a>
+			<a href="result.html"><h2 class="text-white" style="font-weight: bolder;">Results</h2></a><br>
+		  </div> 
 		<img src="img/pubg.png" style="width: 60%;" class="mt-5">
 		<div class="data">
 			<p id="showData"></p>
@@ -40,4 +82,16 @@
 	</div>
 </body>
 <script src="js/pubg/pubg.js"></script>
+<script type="text/javascript">
+	 function openNav(){
+	     document.getElementById('sidenav').style.display = 'block';
+	     document.getElementById('menu-btn').style.display = 'none';
+	     document.getElementById('cut2').style.display = 'block';
+ }
+ function cutNav(){
+     document.getElementById('sidenav').style.display = 'none';
+	 document.getElementById('menu-btn').style.display = 'block';
+	  document.getElementById('cut2').style.display = 'none';
+ }
+</script>
 </html>
