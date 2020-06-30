@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Admin Panel</title>
+</head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="../css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../style.css">
+<style type="text/css">
+	body{
+		margin: 0;
+		padding: 0;
+		border: 0;
+		background-color: black;
+		color: white;
+	}
+	.pubg a, .freefire a, .result a{
+		padding: 15px 15px 15px 15px;
+		text-decoration: none;
+		color: white;
+		background-color: blue;
+		border-radius: 2px;
+	}
+	.pubg, .freefire, .result{
+		margin-bottom: 40px;
+	}
+	.pubg h2, .freefire h2, .result h2{
+		color: yellow;
+	}
+</style>
+<body>
+	<div class="container text-center">
+		<span id="menu-btn" onclick="openNav();" class="text-white ">&#9776;</span>  
+		<span id="cut2" onclick="cutNav();" class="text-white" style="cursor: pointer;">&times;</span>  
+		 <div class="sideNav" id="sidenav">  
+			<a href="../join.html"><h2 style="font-weight: bolder;">Join</h2></a>
+			<a href="../shop.html"><h2 style="font-weight: bolder;">Shop</h2></a>
+			<a href="../result.html"><h2 style="font-weight: bolder;">Results</h2></a><br>
+		  </div> 
+		<h1><u>Admin Panel</u></h1>
+		<div class="pubg">
+			<h2>PUBG Update</h2><br>
+			<a href="mailto:badgoals887@gmail.com&body=New PUBG Update!Go check out https://bitulraj.github.io/PUBG-Freefire-Website/pubg.html">Send Update</a>
+		</div>
+		<div class="freefire">
+			<h2>Freefire Update</h2><br>
+			<a href="mailto:badgoals887@gmail.com&body=New Freefire Update!Go check out https://bitulraj.github.io/PUBG-Freefire-Website/freefire.html">Send Update</a>
+		</div>
+		<div class="result">
+			<h2>Result Update</h2><br>
+			<a href="mailto:badgoals887@gmail.com&body=New Result Update!Go check out https://bitulraj.github.io/PUBG-Freefire-Website/result.html">Send Update</a>
+		</div>
+	</div>
+</body>
+<script type="text/javascript">
+	 function openNav(){
+	     document.getElementById('sidenav').style.display = 'block';
+	     document.getElementById('menu-btn').style.display = 'none';
+	     document.getElementById('cut2').style.display = 'block';
+ }
+ function cutNav(){
+     document.getElementById('sidenav').style.display = 'none';
+	 document.getElementById('menu-btn').style.display = 'block';
+	  document.getElementById('cut2').style.display = 'none';
+ }
+</script>
+</html>
